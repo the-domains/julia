@@ -1,0 +1,14 @@
+layout_spectrum: 0.5448028
+typography_spectrum: 0.7720423
+color:
+  saturation: 0.8422939
+  lightness: 0.5448028
+  brandStrength: 0.4408602
+  brandColors:
+    - '#FFFFFF'
+    - '#4D4D4D'
+    - '#7E7E7E'
+    - '#ADADAD'
+    - '#D7D7D7'
+  rhythmicContrast: 0.781362
+name: Julia
