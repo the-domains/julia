@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.5035842
 color:
   saturation: 0.8422939
   brandStrength: 0.4283154
@@ -21,6 +22,5 @@ color:
     - '#BDBDBD'
     - '#8E8E8E'
   rhythmicContrast: 0.781362
-typography_spectrum: 0.5035842
-layout_spectrum: 0.2921147
+layout_spectrum: 0.6917562
 name: Julia
