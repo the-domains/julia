@@ -1,14 +1,26 @@
-layout_spectrum: 0.5448028
-typography_spectrum: 0.7720423
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8422939
+  brandStrength: 0.4283154
   lightness: 0.5448028
-  brandStrength: 0.4408602
   brandColors:
     - '#FFFFFF'
     - '#4D4D4D'
-    - '#7E7E7E'
-    - '#ADADAD'
-    - '#D7D7D7'
+    - '#E2E2E2'
+    - '#BDBDBD'
+    - '#8E8E8E'
   rhythmicContrast: 0.781362
+typography_spectrum: 0.5035842
+layout_spectrum: 0.2921147
 name: Julia
